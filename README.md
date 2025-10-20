@@ -1,3 +1,5 @@
+<img src="docs/banner.png" alt="Wave-Style Fintech Demo" width="100%">
+
 # 🌊 Wave-Style Fintech Demo  
 > SwiftUI iOS app + Node.js GraphQL backend inspired by [Wave Mobile Money](https://www.wave.com) — showing wallet balance, P2P send, pay-merchant, and transaction history flows.
 
