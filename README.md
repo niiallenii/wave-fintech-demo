@@ -97,6 +97,14 @@ wave-fintech-demo/
 
 ---
 
+### ✨ Features
+- SwiftUI app with minimal GraphQL client (no external dependencies)
+- Node.js Apollo backend with live send/pay mutations
+- In-memory data store (easy to reset)
+- Example API calls and mutations for P2P transfers
+- Simple structure for interviews, demos, and learning
+
+
 ## Notes & Next Steps
 
 - Add **Auth** (JWT / OAuth), **Persistence** (Postgres/Prisma), and **Validation**.
