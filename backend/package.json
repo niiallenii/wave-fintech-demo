@@ -1,0 +1,15 @@
+{
+  "name": "wave-fintech-demo-backend",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "graphql": "^16.9.0",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
