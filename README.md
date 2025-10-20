@@ -1,3 +1,19 @@
+# 🌊 Wave-Style Fintech Demo  
+> SwiftUI iOS app + Node.js GraphQL backend inspired by [Wave Mobile Money](https://www.wave.com) — showing wallet balance, P2P send, pay-merchant, and transaction history flows.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-5.0-orange)
+![Node.js](https://img.shields.io/badge/Node.js-20.x-green)
+![GraphQL](https://img.shields.io/badge/GraphQL-API-blueviolet)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Made-in-Ghana](https://img.shields.io/badge/Made_in-Ghana-red)
+
+---
+
+### 🧠 Overview
+A minimal **fintech demo** combining a SwiftUI iOS frontend with a Node.js GraphQL backend.  
+It mimics the essential user flows of Wave — **check balance, send money, pay merchants, and view transaction history** — while showcasing clean architecture, simple APIs, and a fast developer experience.
+
 # Wave-Style Fintech App (Demo) — Swift, SwiftUI, Node.js, GraphQL
 
 A minimal **end-to-end demo** that mirrors core Wave-style flows: **wallet balance**, **P2P send**, **pay merchant**, and **transaction history**.
